@@ -25,7 +25,7 @@ SignalR, ASP.NET Core için geliştirilmiş bir kütüphanedir ve web uygulamala
 - **İşbirliği Uygulamaları:** Gerçek zamanlı doküman düzenleme veya beyaz tahta uygulamaları.
 
 SignalR, web uygulamalarında daha dinamik ve etkileşimli kullanıcı deneyimleri oluşturmanıza olanak tanıyan güçlü bir araçtır. Hem sunucu hem de istemci tarafında basit bir yapı sunar ve çok çeşitli platformlarla uyumlu çalışır.
-
+Kaynak: [ChatCPT](https://chatgpt.com/)
 # Ekran Görüntüsü
 
 ![info](https://github.com/user-attachments/assets/ac5d62af-488c-4f08-a549-db20d211c97f)
